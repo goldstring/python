@@ -2,6 +2,9 @@
 <b><h2>Project Title:
 BMI Calculator using Streamlit</h2></b>
 
+<p align="center">
+  <img src="https://github.com/goldstring/python/blob/main/StreamLit/BMI%20CALCULATOR%20USING%20STREAMLIT/project_wallpaper.png" alt="Project Screenshot_234756847t67963">
+</p>
 
 <p>The BMI Calculator using Streamlit is a web-based application designed to calculate a user's Body Mass Index (BMI) based on their height and weight. The app provides real-time BMI calculation and classifies the result into health categories such as Severely Underweight, Normal Weight, Overweight, and various levels of obesity. This project demonstrates the use of Python, Streamlit for UI components, and basic health data analytics.</p>
 
